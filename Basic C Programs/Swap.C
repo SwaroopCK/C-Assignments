@@ -9,4 +9,5 @@ int main(){
     a = a - b;// 30 - 10 = 20
 
     printf("\n Values After Swapping are: a = %d b = %d" , a , b);
+    return 0;
 }
